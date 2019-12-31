@@ -1,0 +1,9 @@
+C:\Users\NevesPT\source\repos\Project A\Project A\bin\Release\Project A.exe.config
+C:\Users\NevesPT\source\repos\Project A\Project A\bin\Release\Project A.exe
+C:\Users\NevesPT\source\repos\Project A\Project A\bin\Release\Project A.pdb
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Release\Project A.csprojAssemblyReference.cache
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Release\Project_A.Form1.resources
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Release\Project_A.Properties.Resources.resources
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Release\Project A.csproj.GenerateResource.cache
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Release\Project A.exe
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Release\Project A.pdb

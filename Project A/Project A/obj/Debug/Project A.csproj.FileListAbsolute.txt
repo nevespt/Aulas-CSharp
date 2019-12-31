@@ -1,0 +1,9 @@
+C:\Users\NevesPT\source\repos\Project A\Project A\bin\Debug\Project A.exe.config
+C:\Users\NevesPT\source\repos\Project A\Project A\bin\Debug\Project A.exe
+C:\Users\NevesPT\source\repos\Project A\Project A\bin\Debug\Project A.pdb
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Debug\Project A.csprojAssemblyReference.cache
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Debug\Project_A.Form1.resources
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Debug\Project_A.Properties.Resources.resources
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Debug\Project A.csproj.GenerateResource.cache
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Debug\Project A.exe
+C:\Users\NevesPT\source\repos\Project A\Project A\obj\Debug\Project A.pdb

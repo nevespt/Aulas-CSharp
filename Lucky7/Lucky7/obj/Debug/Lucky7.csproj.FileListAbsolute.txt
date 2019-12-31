@@ -1,0 +1,10 @@
+C:\Users\NevesPT\source\repos\Lucky7\Lucky7\bin\Debug\Lucky7.exe.config
+C:\Users\NevesPT\source\repos\Lucky7\Lucky7\bin\Debug\Lucky7.exe
+C:\Users\NevesPT\source\repos\Lucky7\Lucky7\bin\Debug\Lucky7.pdb
+C:\Users\NevesPT\source\repos\Lucky7\Lucky7\obj\Debug\Lucky7.csprojAssemblyReference.cache
+C:\Users\NevesPT\source\repos\Lucky7\Lucky7\obj\Debug\Lucky7.Form1.resources
+C:\Users\NevesPT\source\repos\Lucky7\Lucky7\obj\Debug\Lucky7.Properties.Resources.resources
+C:\Users\NevesPT\source\repos\Lucky7\Lucky7\obj\Debug\Lucky7.csproj.GenerateResource.cache
+C:\Users\NevesPT\source\repos\Lucky7\Lucky7\obj\Debug\Lucky7.exe
+C:\Users\NevesPT\source\repos\Lucky7\Lucky7\obj\Debug\Lucky7.pdb
+C:\Users\NevesPT\source\repos\Lucky7\Lucky7\obj\Debug\Lucky7.Historico.resources

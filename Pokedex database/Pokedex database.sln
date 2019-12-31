@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "Pokedex database", "..\..\..\..\..\Users\NevesPT\source\repos\Pokedex database\Pokedex database\Pokedex database.phpproj", "{9C572AA6-16D3-441A-BCFD-C286241878C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C572AA6-16D3-441A-BCFD-C286241878C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C572AA6-16D3-441A-BCFD-C286241878C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CB3A29B-E438-45BC-B732-B89D6802C703}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+﻿// One this to note with this example usage code, is the "this" keyword is referring to
+// the current System.Windows.Forms.Form.
+
+// Flash window until it recieves focus
+FlashWindow.Flash(this);
+
+// Flash window 5 times
+FlashWindow.Flash(this, 5);
+
+// Start Flashing "Indefinately"
+FlashWindow.Start(this);
+
+// Stop the "Indefinate" Flashing
+FlashWindow.Stop(this);
