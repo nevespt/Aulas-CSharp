@@ -1,9 +1,0 @@
-C:\Users\NevesPT\source\repos\Adicionar BG\Adicionar BG\bin\Debug\Adicionar BG.exe.config
-C:\Users\NevesPT\source\repos\Adicionar BG\Adicionar BG\bin\Debug\Adicionar BG.exe
-C:\Users\NevesPT\source\repos\Adicionar BG\Adicionar BG\bin\Debug\Adicionar BG.pdb
-C:\Users\NevesPT\source\repos\Adicionar BG\Adicionar BG\obj\Debug\Adicionar BG.csprojAssemblyReference.cache
-C:\Users\NevesPT\source\repos\Adicionar BG\Adicionar BG\obj\Debug\Adicionar_BG.Form1.resources
-C:\Users\NevesPT\source\repos\Adicionar BG\Adicionar BG\obj\Debug\Adicionar_BG.Properties.Resources.resources
-C:\Users\NevesPT\source\repos\Adicionar BG\Adicionar BG\obj\Debug\Adicionar BG.csproj.GenerateResource.cache
-C:\Users\NevesPT\source\repos\Adicionar BG\Adicionar BG\obj\Debug\Adicionar BG.exe
-C:\Users\NevesPT\source\repos\Adicionar BG\Adicionar BG\obj\Debug\Adicionar BG.pdb
