@@ -78,7 +78,7 @@ namespace Project_C
         {
             bool NaoUsada = false;
 
-            string show_palavra = "Jogo da Forca";
+            string show_palavra = "";
 
             try
             {
@@ -178,7 +178,7 @@ namespace Project_C
                 show_palavra = "";
                 for (int i = 0; i < palavraAEcontrar.Length; i++)
                 {
-                    show_palavra += "•";
+                    show_palavra += " • ";
                 }
 
                 letras_Usadas = "";
@@ -243,7 +243,7 @@ namespace Project_C
                         }
                         else
                         {
-                            show_palavra += "•";
+                            show_palavra += " • ";
                         }
                     }
 
