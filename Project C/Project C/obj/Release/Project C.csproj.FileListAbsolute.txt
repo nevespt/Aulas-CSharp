@@ -1,0 +1,8 @@
+C:\Users\NevesPT\source\repos\Project C\Project C\bin\Release\Project C.exe.config
+C:\Users\NevesPT\source\repos\Project C\Project C\bin\Release\Project C.exe
+C:\Users\NevesPT\source\repos\Project C\Project C\bin\Release\Project C.pdb
+C:\Users\NevesPT\source\repos\Project C\Project C\obj\Release\Project_C.Form1.resources
+C:\Users\NevesPT\source\repos\Project C\Project C\obj\Release\Project_C.Properties.Resources.resources
+C:\Users\NevesPT\source\repos\Project C\Project C\obj\Release\Project C.csproj.GenerateResource.cache
+C:\Users\NevesPT\source\repos\Project C\Project C\obj\Release\Project C.exe
+C:\Users\NevesPT\source\repos\Project C\Project C\obj\Release\Project C.pdb
